@@ -1,0 +1,56 @@
+body { 
+    padding:0;
+    color:#000000;
+    background:#FFFFFF;
+	
+    }
+#container{
+	margin-left:50px;
+	margin-right: 50px;
+	background:#FFFFFF;
+}
+h1{margin:0;}
+h2{
+	margin:0;
+	}
+
+#header {
+	background-image: url(bannerfans_15898873.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-top:68px;
+	text-align: center;
+	height: 0px;
+	background:#FFFFFF;
+    }
+img{ max-width: 100%;
+	}
+#nav {
+	height:60px;
+    background:#FFFFFF;
+    }
+section{
+	padding-top: 1px;
+	display: block;
+	}
+#main{
+	background-image: url(newyork_jpg.jpg);
+	background-repeat: no-repeat;
+	background-image: url(newyork10_jpg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-top:68px;
+	margin-bottom: 50px;
+	background:#FFFFFF;
+		font-family:Times new roman ;
+		float: left;
+	}
+p{font-size: 20px}
+
+#footer {
+	height: 50px;
+	text-align: right;
+    clear:both;
+    background:#FFFFFF;
+    }
+
